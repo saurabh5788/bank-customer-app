@@ -1,13 +1,16 @@
 Example Bank Customer Microservice Application
 ----------------------------------------------
-In this project we applied following concepts
+It is a simple microservice representing Customer in a Bank.
+
+Concepts Applied:
+---------------------------------
 - Spring Boot Basics
 - Spring Boot Runners 
 - Spring Boot Configuration
 - Spring Boot JPA implementation using H2 as Embedded DB
 - Spring Boot RESTful API Implementation
 
-Following tools/technologies used:
+Tools/technologies used:
 ---------------------------------
 - Spring Boot 2.3.3.RELEASE
 - JDK 1.8
